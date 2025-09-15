@@ -41,9 +41,8 @@ public class DistanceMultiple
             double numx2 = sc.nextDouble();
             double numy2 = sc.nextDouble();
             System.out.println();
-            System.out.print("Distance between points: ");
+            System.out.print("Your output was: ");
             System.out.print(Math.sqrt(Math.pow((numx2-numx1), 2) + Math.pow((numy2-numy1), 2)));
-            System.out.println(" units");
             System.out.println();
             System.out.println();
             System.out.println();

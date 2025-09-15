@@ -43,9 +43,6 @@ public class DistanceMultiple
             System.out.println();
             System.out.print("Your output was: ");
             System.out.print(Math.sqrt(Math.pow((numx2-numx1), 2) + Math.pow((numy2-numy1), 2)));
-            System.out.println();
-            System.out.println();
-            System.out.println();
 
 // find the sum and return it
         }
